@@ -62,3 +62,39 @@ a.concept-button {
     border-color: #ca3d26;
     padding: 5px 10px;
 }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Lato, sans-serif;
+    /*font-weight: 700;*/
+}
+
+.slider-area h2 {
+    font-family: Lato, sans-serif;
+    /*font-family: 'Dancing Script', cursive;*/
+    font-size: 50px;
+    /*letter-spacing: 2px;*/
+    /*text-transform: capitalize;*/
+}
+
+.area-title h2 {
+    /*color: #ca3d26;*/
+    /*display: inline-block;*/
+    font-family: Lato, sans-serif;
+    /*font-size: 60px;*/
+    /*letter-spacing: 2px;*/
+    /*line-height: 0.8;*/
+    /*margin: 0;*/
+    /*padding: 0 20px 45px;*/
+    /*position: relative;*/
+    /*text-transform: capitalize;*/
+}
+
+.about-area {
+    background: rgba(0, 0, 0, 0) url(img/about/home_three_about_bg.png) no-repeat scroll center bottom / contain;
+    background-size: cover;
+    /*position: relative;*/
+}
+
+.right-about-content {
+    margin-bottom: 50px;
+}
