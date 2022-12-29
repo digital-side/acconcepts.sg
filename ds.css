@@ -89,12 +89,12 @@ h1, h2, h3, h4, h5, h6 {
     /*text-transform: capitalize;*/
 }
 
-.about-area {
-    background: rgba(0, 0, 0, 0) url(img/about/home_three_about_bg.png) no-repeat scroll center bottom / contain;
-    background-size: cover;
-    /*position: relative;*/
-}
+/*.about-area {*/
+/*    !*background: rgba(0, 0, 0, 0) ;*!*/
+/*    !*background: rgba(0, 0, 0, 0) url(img/about/home_three_about_bg.png) no-repeat scroll center bottom / contain;*!*/
+/*    !*position: relative;*!*/
+/*}*/
 
-.right-about-content {
-    margin-bottom: 50px;
-}
+/*.right-about-content {*/
+/*    margin-bottom: 50px;*/
+/*}*/
